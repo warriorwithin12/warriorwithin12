@@ -5,8 +5,8 @@
 - 🤠 Agile player, TDD advocate and Clean Code lover.
 - 🧪 I'm curious about IA development (playing with Keras and Tensorflow), OCR recognition (OpenCV) and more.
 - 🌱 I’m currently learning how to become a better IT Engineer attending Master's Degree in Computing engineering.
-- 💞️ I’m looking to collaborate with anyone whow works with humility and a good sense of humour.
-- 🙅🏻‍♂️If you like the light theme in IDEs, you have it clear with me.
+- 💞️ Team player. Always looking to collaborate with anyone whow works with humility and a good sense of humour.
+- 🙅🏻‍♂️ If you like the light theme in IDEs, I'm so sorry but you have it clear with me.
 - 📫 How to reach me: https://www.linkedin.com/in/adan-guerrero-gonzalez/
 
 <!---
