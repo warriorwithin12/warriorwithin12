@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Adán!
-- 👀 I’m interested in Fullstack development and in software development in general.
-- 🌱 I’m currently learning how to become a better engineer cursing a Master's degree in Computing engineering.
+- 👀 I’m a Software Enginer III with a Backend specialitzation, but also with a Fullstack past.
+- 🧙🏻‍♂️ Specialized in JVM tech stack (Java, Groovy, Kotlin).
+- 🤓 Other stacks known: Python, Angular Framework (Typescript), Kafka, Microsoft Azure (CI/CD), Git and Docker containers.
+- 🤠 Agile player, TDD advocate and Clean Code lover.
+- 🧪 I'm curious about IA development (playing with Keras and Tensorflow), OCR recognition (OpenCV) and more.
+- 🌱 I’m currently learning how to become a better IT Engineer attending Master's Degree in Computing engineering.
 - 💞️ I’m looking to collaborate with anyone whow works with humility and a good sense of humour.
+- 🙅🏻‍♂️If you like the light theme in IDEs, you have it clear with me.
 - 📫 How to reach me: https://www.linkedin.com/in/adan-guerrero-gonzalez/
 
 <!---
